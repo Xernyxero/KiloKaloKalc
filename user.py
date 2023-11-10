@@ -1,5 +1,7 @@
 """ VARIABLES DE USO"""
 
+#El que lo lea huele a pito
+
 keys_macros = ["Grasas", "Saturadas", "Hidratos", "Azucares", "Proteinas", "Kcal"]
 proporciones = dict(zip(["almuerzo", "comida", "merienda","cena"],[0.2,0.3,0.2,0.3]))
 
