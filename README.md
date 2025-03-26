@@ -3,6 +3,8 @@ Descripción:
   Este proyecto permite gestionar recetas y dietas personalizadas en función de los macronutrientes
   y calorias de los ingredientes. Los usuarios pueden registrarse, añadir alimentos, crear recetas y
   ajustar sus dietas segun sus objetivos.
+
+  Este proyecto no esta acabado ni mucho menos. Se irá actualizando poco a poco, somos estudiantes y no tenemos mucho tiempo libre, gracias por echarle un vistazo y espero que os sirva.
   
 Estructura del proyecto:
 
