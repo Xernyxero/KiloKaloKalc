@@ -19,6 +19,7 @@ Estructura del proyecto:
       Contiene las definiciones y metodos de las clases Ingrediente, Usuario, Receta
   * Datos.xlsx:
       Actúa como base de datos. Debe tenerla aun estando vacia para que funcione.
+      Actualmente no es posible modificar ni eliminar los datos a traves del programa. Puede hacerlo entrando en el archivo y borrando o modificando lo que necesite como por ejemplo si quiere llevar un seguimiento de su peso, cambios en los objetivos, actividad fisica, ...
 
 Requisitos:
   
