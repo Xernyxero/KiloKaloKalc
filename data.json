@@ -1,0 +1,199 @@
+{
+  "Ingrediente": [
+    {
+      "name": "arroz",
+      "kcal": 347,
+      "grasas": 0.8,
+      "grasas_saturadas": 0.3,
+      "hidratos": 78.0,
+      "azucares": 0.5,
+      "proteinas": 6.5,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "pollo",
+      "kcal": 108,
+      "grasas": 1.8,
+      "grasas_saturadas": 0.6,
+      "hidratos": 0.5,
+      "azucares": 0.0,
+      "proteinas": 22.0,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "aguacate",
+      "kcal": 160,
+      "grasas": 15.0,
+      "grasas_saturadas": 0.0,
+      "hidratos": 8.5,
+      "azucares": 0.0,
+      "proteinas": 2.0,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "queso gouda",
+      "kcal": 357,
+      "grasas": 29.0,
+      "grasas_saturadas": 19.0,
+      "hidratos": 0.0,
+      "azucares": 0.0,
+      "proteinas": 24.0,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "jamon cocido",
+      "kcal": 101,
+      "grasas": 3.0,
+      "grasas_saturadas": 1.2,
+      "hidratos": 1.5,
+      "azucares": 1.5,
+      "proteinas": 17.0,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "pan",
+      "kcal": 71,
+      "grasas": 0.8,
+      "grasas_saturadas": 0.0,
+      "hidratos": 13.6,
+      "azucares": 0.0,
+      "proteinas": 2.2,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "macarrones tiburon",
+      "kcal": 344,
+      "grasas": 2.0,
+      "grasas_saturadas": 0.5,
+      "hidratos": 68.0,
+      "azucares": 3.5,
+      "proteinas": 12.0,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "bacon taquitos",
+      "kcal": 263,
+      "grasas": 22.5,
+      "grasas_saturadas": 7.8,
+      "hidratos": 1.0,
+      "azucares": 1.0,
+      "proteinas": 14.0,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "queso rayao",
+      "kcal": 277,
+      "grasas": 16.0,
+      "grasas_saturadas": 8.0,
+      "hidratos": 21.0,
+      "azucares": 0.5,
+      "proteinas": 14.0,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "leche entera ifa",
+      "kcal": 63,
+      "grasas": 3.6,
+      "grasas_saturadas": 2.5,
+      "hidratos": 4.7,
+      "azucares": 4.7,
+      "proteinas": 3.0,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "nata cocinar",
+      "kcal": 189,
+      "grasas": 18.0,
+      "grasas_saturadas": 12.2,
+      "hidratos": 4.4,
+      "azucares": 3.7,
+      "proteinas": 2.4,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "tomate frito",
+      "kcal": 68,
+      "grasas": 3.1,
+      "grasas_saturadas": 0.3,
+      "hidratos": 8.2,
+      "azucares": 6.0,
+      "proteinas": 1.3,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "choco flakes",
+      "kcal": 390,
+      "grasas": 4.5,
+      "grasas_saturadas": 2.4,
+      "hidratos": 78.0,
+      "azucares": 25.0,
+      "proteinas": 6.2,
+      "precio_por_kg": 0
+    },
+    {
+      "name": "copos de maiz ifa",
+      "kcal": 373,
+      "grasas": 0.8,
+      "grasas_saturadas": 0.2,
+      "hidratos": 82.0,
+      "azucares": 7.0,
+      "proteinas": 8.0,
+      "precio_por_kg": 0
+    }
+  ],
+  "Receta": [
+    {
+      "receta": "arroz con pollo",
+      "tipo": "almuerzo",
+      "ingrediente_1": "arroz",
+      "ingrediente_2": "pollo",
+      "ingrediente_3": "aguacate",
+      "ingrediente_4": null
+    },
+    {
+      "receta": "bocaillo jamon y queso",
+      "tipo": "desayuno",
+      "ingrediente_1": "pan",
+      "ingrediente_2": "jamon cocido",
+      "ingrediente_3": "queso gouda",
+      "ingrediente_4": null
+    },
+    {
+      "receta": "macarrones carbonara",
+      "tipo": "almuerzo",
+      "ingrediente_1": "macarrones tiburon",
+      "ingrediente_2": "bacon taquitos",
+      "ingrediente_3": "queso rayao",
+      "ingrediente_4": "nata cocinar"
+    },
+    {
+      "receta": "cereales",
+      "tipo": "desayuno",
+      "ingrediente_1": "copos de maiz ifa",
+      "ingrediente_2": "leche entera ifa",
+      "ingrediente_3": null,
+      "Ingrediente_4": null
+    }
+  ],
+  "Usuario": [
+    {
+      "nombre": "Jaime",
+      "edad": 24,
+      "sexo ": "H",
+      "peso": 65,
+      "altura": 165,
+      "actividad": 2,
+      "objetivo": "D"
+    },
+    {
+      "nombre": "Josh",
+      "edad": 24,
+      "sexo ": "H",
+      "peso": 57,
+      "altura": 170,
+      "actividad": 1,
+      "objetivo": "V"
+    }
+  ],
+  "Dieta": []
+}
