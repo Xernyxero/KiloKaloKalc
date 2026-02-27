@@ -54,13 +54,13 @@ def pedir_datos_recetas():
 	    		print(f"❌ Error al leer los datos: {e}")
 
 def pedir_datos_dietas():
-
-    while True:
-    	try:
-    		dieta = [input("Introduzca un desayuno:")]
-    		dieta.append(input("Introduzca un almuerzo:"))
-    		dieta.append(input("Introduzca una merienda:"))
-    		dieta.append(input("Introduzca una cena:"))
-    		return dieta
-    	except Exception as e:
-    		print(f"❌ Error al leer los datos: {e}")
+	while True:
+		try:
+			dieta = []
+			n = int(input("Cuantas recetas lleva: "))
+			for i in range(1, n + 1):
+				print("Receta", i)
+				dieta.append(input())
+			return dieta
+		except Exception as e:
+	    		print(f"❌ Error al leer los datos: {e}")
